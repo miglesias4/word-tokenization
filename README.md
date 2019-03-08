@@ -128,3 +128,6 @@ Overall, a user should be able to:
 2. and recall a certain history item by using the command `!3` (i.e. an exclamation directly followed by the sequence number).
 
 You should define each function inside the **history.h** header file and then incorporate the history with your tokenizer and interface.
+
+## Contributers for this Project
+This lab required some assistance in creating a effective program and the need of understanding with some topics that I was not clear on: Matthew Montoya, Hiram Rios, Ian Hudson, Yamel Hernandez, and Jorge Felix.
